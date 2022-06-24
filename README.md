@@ -3,10 +3,10 @@ This project is draw the polyline path betwenn two points in Google Map.
 
 >API Require
 >
->>okhttp 
+>>okhttp  
 >>Maps SDK for Android  
->>Distance Matrix API 
->>Place API 
+>>Distance Matrix API  
+>>Place API  
 
 >UI and Java Code  
 >>UI：activity_main.xml、fragment_map.xml  
