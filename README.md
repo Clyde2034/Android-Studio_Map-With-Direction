@@ -1,4 +1,4 @@
-# Android-Studio_MapWithDirection
+# Android-Studio_Map-With-Direction
 This project is draw the polyline path between two points in Google Map. 
 
 >API Require
